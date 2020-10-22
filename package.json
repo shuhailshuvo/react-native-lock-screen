@@ -1,0 +1,39 @@
+{
+  "name": "@shuhailshuvo/react-native-lock-screen",
+  "version": "1.0.0",
+  "description": "Working Lock Screen for React-Native",
+  "main": "./js/index.js",
+  "repository": "git://github.com/shuhailshuvo/react-native-lock-screen.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bundleDependencies": true,
+  "deprecated": false,
+  "dependencies": {
+    "react-native-animatable": "1.3.2",
+    "react-native-easy-toast": "1.2.0",
+    "react-native-material-ripple": "0.9.1",
+    "react-native-on-layout": "2.0.2",
+    "react-native-size-matters": "0.2.1",
+    "react-native-svg": "9.9.9",
+    "react-native-svg-uri": "1.2.3",
+    "react-native-vector-icons": "6.6.0"
+  },
+  "devDependencies": {
+    "prettier-pack": "0.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lockscreen",
+    "react",
+    "native"
+  ],
+  "homepage": "https://github.com/shuhailshuvo/react-native-lock-screen.git",
+  "author": "Shuhail Shuvo <shuhail.alam@gmail.com>",
+  "license": "MIT"
+}
